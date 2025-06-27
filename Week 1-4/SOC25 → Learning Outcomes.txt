@@ -1,0 +1,27 @@
+﻿Week 1 - 4 → Learning Outcomes
+
+
+Week 1 → Deep Learning Fundamentals -1
+
+
+In the first week, the topics covered were foundational and primarily served as a review of concepts I was already familiar with. These include basic principles of Neural Networks -> what deep learning is, how neural networks function, and the basics of training via forward and backward propagation. Explore activation functions (ReLU, Sigmoid, Tanh) and get hands-on with PyTorch or TensorFlow basics.
+
+
+Week 2 → Deep Learning Fundamentals -2
+
+
+In Week 2, the focus shifted toward understanding and implementing Convolutional Neural Networks. I implemented a basic CNN using PyTorch and trained it on the CIFAR-10 dataset. This hands-on exercise reinforced my understanding of how CNNs learn low- to high-level features across layers. It also gave me practical experience with defining architectures, managing overfitting through dropout and batch normalization, and evaluating performance.
+
+
+Week 3 → Semantic Segmentation Basics
+
+
+In Week 3, some concepts were entirely new to me and required additional time and focused effort to grasp. 
+I began by watching beginner-friendly videos to build a strong foundational understanding. Through this, I explored how semantic segmentation works and how it differs from other vision tasks. I also learned about key evaluation metrics such as mean Intersection over Union (mIoU) and pixel accuracy, which are crucial for assessing segmentation model performance.
+It also includes popular architectures used for segmentation, including Fully Convolutional Networks (FCN) and U-Net. I put special emphasis on understanding and implementing U-Net, due to its relatively simpler and more intuitive structure compared to advanced architectures like DeepLabv3+ with ASPP (Atrous Spatial Pyramid Pooling). Overall, this week was both challenging and rewarding. 
+Week 4: DeepLabV3+ Architecture
+
+
+In Week 4, the focus was on exploring the DeepLabV3+ architecture. This week built upon the foundational concepts covered in Week 3, and significantly deepened my understanding of high-resolution pixel-wise prediction through advanced architectural components.
+The primary learning goal was to study the encoder–decoder structure of DeepLabV3+.
+To reinforce the theoretical understanding, I followed a hands-on tutorial and tried implementing a simplified version of DeepLabV3+ using Google Colab. This included loading pretrained DeepLab models via PyTorch, preprocessing datasets, running inference, and visualizing segmentation maps. While implementation was more complex than U-Net, the guided tutorial and structured experimentation helped me navigate the architecture successfully.
