@@ -54,6 +54,3 @@ We evaluated model performance using standard semantic segmentation metrics:
 - **Classes:** 30 classes with custom color palette  
 
 ---
-
-## 🧱 Project Structure
-
