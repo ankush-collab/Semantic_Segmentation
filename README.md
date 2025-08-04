@@ -35,8 +35,7 @@ We evaluated model performance using standard semantic segmentation metrics:
 
 | Metric          | Value        |
 |-----------------|--------------|
-| Pixel Accuracy  | ~35.00%       |
-| mIoU            | ~63.2%       |
+| mIoU            | ~35.00%       |
 | Epochs Trained  | 20           |
 | Optimizer       | Adam         |
 | Loss Function   | CrossEntropy |
